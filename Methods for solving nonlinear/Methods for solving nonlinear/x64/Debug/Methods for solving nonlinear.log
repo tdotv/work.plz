@@ -1,0 +1,5 @@
+﻿  [].cpp
+D:\Учеба\work.plz\Methods for solving nonlinear\Methods for solving nonlinear\[].cpp(40,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Methods for solving nonlinear\Methods for solving nonlinear\[].cpp(42,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Methods for solving nonlinear\Methods for solving nonlinear\[].cpp(71,21): warning C4129: S: неизвестная escape-последовательность
+  Methods for solving nonlinear.vcxproj -> D:\Учеба\work.plz\Methods for solving nonlinear\x64\Debug\Methods for solving nonlinear.exe

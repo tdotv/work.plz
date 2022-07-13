@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Учеба\work.plz\Processing two-dimensional arrays\Processing two-dimensional arrays\Source.cpp(34,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Processing two-dimensional arrays\Processing two-dimensional arrays\Source.cpp(35,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Processing two-dimensional arrays\Processing two-dimensional arrays\Source.cpp(51,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Processing two-dimensional arrays\Processing two-dimensional arrays\Source.cpp(32,23): warning C4101: string: неиспользованная локальная переменная
+D:\Учеба\work.plz\Processing two-dimensional arrays\Processing two-dimensional arrays\Source.cpp(32,45): warning C4101: x: неиспользованная локальная переменная
+  Processing two-dimensional arrays.vcxproj -> D:\Учеба\work.plz\Processing two-dimensional arrays\Debug\Processing two-dimensional arrays.exe

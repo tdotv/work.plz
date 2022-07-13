@@ -1,0 +1,3 @@
+﻿  deadinside.cpp
+D:\Учеба\work.plz\Algorithms of searching and sorting in arrays\Algorithms of searching and sorting in arrays\deadinside.cpp(232,55): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Algorithms of searching and sorting in arrays.vcxproj -> D:\Учеба\work.plz\Algorithms of searching and sorting in arrays\x64\Debug\Algorithms of searching and sorting in arrays.exe

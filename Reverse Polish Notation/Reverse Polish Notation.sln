@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse Polish Notation", "Reverse Polish Notation\Reverse Polish Notation.vcxproj", "{387FD333-90CD-4103-89D3-1E86CE053D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{387FD333-90CD-4103-89D3-1E86CE053D0B}.Debug|x64.ActiveCfg = Debug|x64
+		{387FD333-90CD-4103-89D3-1E86CE053D0B}.Debug|x64.Build.0 = Debug|x64
+		{387FD333-90CD-4103-89D3-1E86CE053D0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{387FD333-90CD-4103-89D3-1E86CE053D0B}.Debug|x86.Build.0 = Debug|Win32
+		{387FD333-90CD-4103-89D3-1E86CE053D0B}.Release|x64.ActiveCfg = Release|x64
+		{387FD333-90CD-4103-89D3-1E86CE053D0B}.Release|x64.Build.0 = Release|x64
+		{387FD333-90CD-4103-89D3-1E86CE053D0B}.Release|x86.ActiveCfg = Release|Win32
+		{387FD333-90CD-4103-89D3-1E86CE053D0B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B7A00F9-9E7B-49FB-B1D8-7F69356C0667}
+	EndGlobalSection
+EndGlobal

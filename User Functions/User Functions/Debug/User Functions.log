@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Учеба\work.plz\User Functions\User Functions\Source.cpp(43,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\User Functions\User Functions\Source.cpp(32,18): warning C4101: x: неиспользованная локальная переменная
+D:\Учеба\work.plz\User Functions\User Functions\Source.cpp(70,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  User Functions.vcxproj -> D:\Учеба\work.plz\User Functions\Debug\User Functions.exe

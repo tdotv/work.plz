@@ -1,0 +1,5 @@
+﻿  0_0.cpp
+D:\Учеба\work.plz\Recursive functions\Recursive functions\0_0.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Учеба\work.plz\Recursive functions\Recursive functions\0_0.cpp(15,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Recursive functions\Recursive functions\0_0.cpp(17,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Recursive functions.vcxproj -> D:\Учеба\work.plz\Recursive functions\Debug\Recursive functions.exe

@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Учеба\work.plz\Processing one-dimensional arrays\Processing one-dimensional arrays\Source.cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учеба\work.plz\Processing one-dimensional arrays\Processing one-dimensional arrays\Source.cpp(36,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Processing one-dimensional arrays\Processing one-dimensional arrays\Source.cpp(41,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Processing one-dimensional arrays\Processing one-dimensional arrays\Source.cpp(66,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Processing one-dimensional arrays\Processing one-dimensional arrays\Source.cpp(94,9): warning C4101: j: неиспользованная локальная переменная
+D:\Учеба\work.plz\Processing one-dimensional arrays\Processing one-dimensional arrays\Source.cpp(94,6): warning C4101: i: неиспользованная локальная переменная
+D:\Учеба\work.plz\Processing one-dimensional arrays\Processing one-dimensional arrays\Source.cpp(109,9): warning C4101: j: неиспользованная локальная переменная
+D:\Учеба\work.plz\Processing one-dimensional arrays\Processing one-dimensional arrays\Source.cpp(109,6): warning C4101: i: неиспользованная локальная переменная
+  Processing one-dimensional arrays.vcxproj -> D:\Учеба\work.plz\Processing one-dimensional arrays\Debug\Processing one-dimensional arrays.exe

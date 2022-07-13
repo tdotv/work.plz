@@ -1,0 +1,8 @@
+﻿  haha.cpp
+D:\Учеба\work.plz\Dynamic STACK structure\Dynamic STACK structure\haha.cpp(62,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Dynamic STACK structure\Dynamic STACK structure\haha.cpp(71,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Dynamic STACK structure\Dynamic STACK structure\haha.cpp(72,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Dynamic STACK structure\Dynamic STACK structure\haha.cpp(73,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учеба\work.plz\Dynamic STACK structure\Dynamic STACK structure\haha.cpp(84,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\work.plz\Dynamic STACK structure\Dynamic STACK structure\haha.cpp(151,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Dynamic STACK structure.vcxproj -> D:\Учеба\work.plz\Dynamic STACK structure\Debug\Dynamic STACK structure.exe
